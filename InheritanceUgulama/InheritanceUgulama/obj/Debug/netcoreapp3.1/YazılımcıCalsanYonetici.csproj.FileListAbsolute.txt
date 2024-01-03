@@ -1,0 +1,13 @@
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.exe
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.deps.json
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.runtimeconfig.json
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.runtimeconfig.dev.json
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.dll
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.pdb
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.AssemblyInfoInputs.cache
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.AssemblyInfo.cs
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.csproj.CoreCompileInputs.cache
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.dll
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.pdb
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\YazılımcıCalsanYonetici.genruntimeconfig.cache

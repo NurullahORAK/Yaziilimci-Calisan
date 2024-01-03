@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YazılımcıCalsanYonetici", "InheritanceUgulama\YazılımcıCalsanYonetici.csproj", "{0B0A3E65-3C3D-4FE0-83F6-175001E5B0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B0A3E65-3C3D-4FE0-83F6-175001E5B0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0A3E65-3C3D-4FE0-83F6-175001E5B0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0A3E65-3C3D-4FE0-83F6-175001E5B0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0A3E65-3C3D-4FE0-83F6-175001E5B0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB82AC9C-DD83-4A3E-8917-626846B39D21}
+	EndGlobalSection
+EndGlobal

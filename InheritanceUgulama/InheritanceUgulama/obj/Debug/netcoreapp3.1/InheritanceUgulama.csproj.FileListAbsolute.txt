@@ -1,0 +1,13 @@
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\InheritanceUgulama.exe
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\InheritanceUgulama.deps.json
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\InheritanceUgulama.runtimeconfig.json
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\InheritanceUgulama.runtimeconfig.dev.json
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\InheritanceUgulama.dll
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\bin\Debug\netcoreapp3.1\InheritanceUgulama.pdb
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\InheritanceUgulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\InheritanceUgulama.AssemblyInfoInputs.cache
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\InheritanceUgulama.AssemblyInfo.cs
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\InheritanceUgulama.csproj.CoreCompileInputs.cache
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\InheritanceUgulama.dll
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\InheritanceUgulama.pdb
+C:\Users\orakn\source\repos\InheritanceUgulama\InheritanceUgulama\obj\Debug\netcoreapp3.1\InheritanceUgulama.genruntimeconfig.cache
